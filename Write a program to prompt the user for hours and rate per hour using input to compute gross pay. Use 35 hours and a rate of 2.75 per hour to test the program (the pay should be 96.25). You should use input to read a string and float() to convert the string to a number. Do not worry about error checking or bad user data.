@@ -1,0 +1,7 @@
+hrs = input("Enter Hours:")
+h=float(hrs)
+rate=input("enter rate per hour")
+r=float(rate)
+P=h*r
+Pay=str(P)
+print("Pay: "+Pay)
